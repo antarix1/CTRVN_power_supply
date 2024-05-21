@@ -13,3 +13,12 @@ DIY powerkit
 
 Metal Enclosures
 ![image](https://github.com/antarix1/CTRVN_power_supply/assets/157115502/167d5db2-1590-4650-9e9d-9a78be823d01)
+
+
+Stepdown isolating circuit
+![image](https://github.com/antarix1/CTRVN_power_supply/assets/157115502/b5e73ed2-2174-42b1-804a-c2232346b6fe)
+
+Reduce input voltage
+![image](https://github.com/antarix1/CTRVN_power_supply/assets/157115502/8742b5a4-6729-446e-8061-d55497136fc5)
+
+
